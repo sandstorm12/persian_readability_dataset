@@ -1,4 +1,4 @@
-# Persian text readability dataset
+# Persian Text Readability Dataset
 
 A readability dataset in the Persian language.
 
