@@ -1,6 +1,6 @@
 # Persian Text Readability Dataset
 
-A readability dataset in the Persian language.
+A readability dataset in the Persian (Farsi) language.
 
 ## Information
 
